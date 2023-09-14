@@ -14,7 +14,7 @@ namespace FactoryPattern
 
         public void Drive() 
         {
-        
+            Console.WriteLine($"Driving {Name} - {Description}");
         }
         
          
